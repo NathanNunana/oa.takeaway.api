@@ -1,4 +1,4 @@
-# Takeway
+# OA Takeway Financial API
 
 Go REST API built around 6 financial engineering problems — idempotent transfers, CSV processing, rate limiting, IDOR security, audit logging, and ledger reconciliation.
 
